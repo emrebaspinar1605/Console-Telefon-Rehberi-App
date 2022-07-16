@@ -1,0 +1,15 @@
+C:\Users\Turku\Desktop\Pratikler\Console-Telefon-Rehberi-App\bin\Debug\net6.0\Console-Telefon-Rehberi-App.exe
+C:\Users\Turku\Desktop\Pratikler\Console-Telefon-Rehberi-App\bin\Debug\net6.0\Console-Telefon-Rehberi-App.deps.json
+C:\Users\Turku\Desktop\Pratikler\Console-Telefon-Rehberi-App\bin\Debug\net6.0\Console-Telefon-Rehberi-App.runtimeconfig.json
+C:\Users\Turku\Desktop\Pratikler\Console-Telefon-Rehberi-App\bin\Debug\net6.0\Console-Telefon-Rehberi-App.dll
+C:\Users\Turku\Desktop\Pratikler\Console-Telefon-Rehberi-App\bin\Debug\net6.0\Console-Telefon-Rehberi-App.pdb
+C:\Users\Turku\Desktop\Pratikler\Console-Telefon-Rehberi-App\obj\Debug\net6.0\Console-Telefon-Rehberi-App.csproj.AssemblyReference.cache
+C:\Users\Turku\Desktop\Pratikler\Console-Telefon-Rehberi-App\obj\Debug\net6.0\Console-Telefon-Rehberi-App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Turku\Desktop\Pratikler\Console-Telefon-Rehberi-App\obj\Debug\net6.0\Console-Telefon-Rehberi-App.AssemblyInfoInputs.cache
+C:\Users\Turku\Desktop\Pratikler\Console-Telefon-Rehberi-App\obj\Debug\net6.0\Console-Telefon-Rehberi-App.AssemblyInfo.cs
+C:\Users\Turku\Desktop\Pratikler\Console-Telefon-Rehberi-App\obj\Debug\net6.0\Console-Telefon-Rehberi-App.csproj.CoreCompileInputs.cache
+C:\Users\Turku\Desktop\Pratikler\Console-Telefon-Rehberi-App\obj\Debug\net6.0\Console-Telefon-Rehberi-App.dll
+C:\Users\Turku\Desktop\Pratikler\Console-Telefon-Rehberi-App\obj\Debug\net6.0\refint\Console-Telefon-Rehberi-App.dll
+C:\Users\Turku\Desktop\Pratikler\Console-Telefon-Rehberi-App\obj\Debug\net6.0\Console-Telefon-Rehberi-App.pdb
+C:\Users\Turku\Desktop\Pratikler\Console-Telefon-Rehberi-App\obj\Debug\net6.0\Console-Telefon-Rehberi-App.genruntimeconfig.cache
+C:\Users\Turku\Desktop\Pratikler\Console-Telefon-Rehberi-App\obj\Debug\net6.0\ref\Console-Telefon-Rehberi-App.dll
